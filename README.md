@@ -16,14 +16,15 @@ Computer Engineering student navigating the world of software development and cy
 
 ## Current Work
 
-- **Spellchecker in Go** (WIP)
-- **Software Engineering Project:** █▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓█
+- **Spellchecker in Go** (still evolving) ([mvarr/GoTypo](https://github.com/mvarr/GoTypo))
+- **Software Engineering Project:** 2D CFD Simulator with Navier-Strokes equations (Work in Progress)
 - **Automata Theory & Computation:** Diving into DFA, NFA, and Turing Machines
 - **Programming Languages:** Programming Paradigms, Syntax & Semantics, Functional Programming (Haskell Basics)
-- **Cybersecurity Training:** Learning, testing, breaking, fixing
+- **Cybersecurity Training:** Learning, testing, breaking, fixing. CTF Beginner.
 
 ## Open Source & Side Projects
 
+- **GoTypo** ([mvarr/GoTypo](https://github.com/mvarr/GoTypo))
 - **xoxgo** ([mvarr/xoxgo](https://github.com/mvarr/xoxgo))
 - **itunes_duplicate_detector** ([mvarr/itunes_duplicate_detecter](https://github.com/mvarr/itunes_duplicate_detecter))
 - **Personal Site:** [mvarr.github.io](https://github.com/mvarr/mvarr.github.io)
@@ -43,6 +44,9 @@ Looking to contribute to open-source projects. If you have recommendations, let 
 - **KTUCEC (KTU Computer Engineering Student Club):**
   - **Board Member:** 1.5 years on the board
   - **Web Committee:** Ongoing until the end of the academic year
+
+- **KTUSEC (KTU Cyber Security Club):**
+  - **CTF Team Member** 
 
 ## Contact
 
