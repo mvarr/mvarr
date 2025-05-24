@@ -5,12 +5,10 @@ Computer Engineering student navigating the world of software development and cy
 ## Tech Stack & Interests
 
 - **Languages:** C, Go, Python
-- **Paradigms:** Functional Programming, Low-Level Systems
-- **OS:** Fedora (Primary), Windows (Backup)
+- **OS:** Arch (Primary), ParrotOS (Secondary, security & network tools), Windows 10LTSC (Windows)
 - **Tools:** Git, Vim, Obsidian, Docker
 - **Security:** Network Analysis, Ethical Hacking, Network Management
-- **Software Development:** Performance Optimization, Architectural Design
-- **AI & ML:** Prompt Engineering, LLM Model Fine-Tuning
+- **AI & ML:** Prompt Engineering, LLM Model Fine-Tuning (llama 3.2 & mixtral)
 - **Cloud & DevOps:** Kubernetes, CI/CD Basics
 - **Embedded Systems:** Arduino
 
@@ -18,8 +16,8 @@ Computer Engineering student navigating the world of software development and cy
 
 - **Spellchecker in Go** (still evolving) ([mvarr/GoTypo](https://github.com/mvarr/GoTypo))
 - **Software Engineering Project:** 2D CFD Simulator with Navier-Strokes equations (Work in Progress)
-- **Automata Theory & Computation:** Diving into DFA, NFA, and Turing Machines
-- **Programming Languages:** Programming Paradigms, Syntax & Semantics, Functional Programming (Haskell Basics)
+- **Automata Theory & Computation**
+- **Programming Languages**
 - **Cybersecurity Training:** Learning, testing, breaking, fixing. CTF Beginner.
 
 ## Open Source & Side Projects
@@ -29,24 +27,19 @@ Computer Engineering student navigating the world of software development and cy
 - **itunes_duplicate_detector** ([mvarr/itunes_duplicate_detecter](https://github.com/mvarr/itunes_duplicate_detecter))
 - **Personal Site:** [mvarr.github.io](https://github.com/mvarr/mvarr.github.io)
 
-Looking to contribute to open-source projects. If you have recommendations, let me know.
+🔝Looking to contribute to open-source projects. If you have recommendations, let me know.🔝
 
-## Workflow & Principles
+‼️Clear commits, no "final_final_v2" nonsense‼️
 
-- **Productivity:** Efficiency without chaos
-- **Version Control:** Clear commits, no "final_final_v2" nonsense
-- **Code Quality:** Readable, scalable, maintainable
-- **Learning Approach:** Theory is fine, but execution is what matters
-- **Software Development:** Make it work first, make it elegant second
+‼️Make it work first, make it elegant second ‼️
 
 ## Community & Leadership
 
 - **KTUCEC (KTU Computer Engineering Student Club):**
-  - **Board Member:** 1.5 years on the board
-  - **Web Committee:** Ongoing until the end of the academic year
+  - **Board Member:** September 2023 - January 2025
+  - **Web Committee:** June 2024 - June 2025
 
-- **KTUSEC (KTU Cyber Security Club):**
-  - **CTF Team Member** 
+- **KTUSEC (KTU Cyber Security Club): CTF Team Member**
 
 ## Contact
 
