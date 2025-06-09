@@ -43,6 +43,23 @@ Computer Engineering student navigating the world of software development and cy
 
 ## Contact
 
-- **GitHub:** You're already here.
-- [**LinkedIn:**](linkedin.com/in/melihvar)
-- [**Email:**](mailto:melihvar@hotmail.com)
+
+<a href="mailto:melihvar@hotmail.com"
+target="_blank" rel="noopener noreferrer">
+  <img src="https://web.archive.org/web/20090901162008im_/http://www.geocities.com/jeremycastlejungle/e-mail.gif" alt="Mail" />
+</a>
+
+<a href="https://www.github.com/mvarr" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github" />
+</a>
+<br></br>
+
+<a href="https://www.linkedin.com/in/melihvar" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<br></br>
+
+<a style="display:inline-block;background-color:#FC5200;color:#fff;padding:5px 10px 5px 30px;font-size:11px;font-family:Helvetica, Arial, sans-serif;white-space:nowrap;text-decoration:none;background-repeat:no-repeat;background-position:10px center;border-radius:3px;background-image:url('https://badges.strava.com/logo-strava-echelon.png')" href='https://strava.com/athletes/151415391' target="_clean">
+  Follow me on
+  <img src='https://badges.strava.com/logo-strava.png' alt='Strava' style='margin-left:2px;vertical-align:text-bottom' height=13 width=51 />
+</a>
